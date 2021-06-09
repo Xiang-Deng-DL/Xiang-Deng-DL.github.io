@@ -12,10 +12,11 @@ My name is [Xiang Deng][Xiang Deng]. I am a third year PhD student at [MRL Lab][
 
 To be added
 
-# Selected Publications
+# Selected Publications Since 2020
 
   - **Xiang Deng**, Zhongfei Zhang. "Graph-Free Knowledge Distillation for Graph Neural Networks." 30th International Joint Conference on Artificial Intelligence (IJCAI'2021)
   - **Xiang Deng**, Zhongfei Zhang. "Learning with Retrospection." 30th AAAI Conference on Artificial Intelligence (AAAI'2021) [[Code]]
+  - **Xiang Deng**, Zhongfei Zhang. "Is the Meta-Learning Idea Able to Improve the Generalization of Deep Neural Networks on the Standard Supervised Learning?." 25th International Conference on Pattern Recognition (ICPR'2020)
   - to be added
 
 [Code]: https://github.com/Xiang-Deng-DL/Learning-With-Retrospection  
