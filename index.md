@@ -1,6 +1,6 @@
 # Bio
 
-This is [Xiang Deng][Xiang Deng], a third year PhD candidate at [MRL Lab][MRL Lab] at [State University of New York at Binghamton][State University of New York at Binghamton]. I am working with [Prof. Zhongfei Zhang][Prof. Zhongfei Zhang]. I aim to design simple but very effcitive deep learning approaches. Simplicity yet effectiveness is the best. Prior to joining SUNY-Binghamton, I obtained B.Eng. in Software Engineering and M.Eng. in Computer Science and Techonology from [Shandong University][Shandong University] in 2015 and 2018, respectively.
+This is [Xiang Deng][Xiang Deng], a third year PhD candidate at [MRL Lab][MRL Lab] at [State University of New York at Binghamton][State University of New York at Binghamton]. I am working with [Prof. Zhongfei Zhang][Prof. Zhongfei Zhang]. I aim to design simple but very effective deep learning approaches. Simplicity yet effectiveness is the best. Prior to joining SUNY-Binghamton, I obtained the Bachelor's and Master's degrees from [Shandong University][Shandong University] in 2015 and 2018, respectively.
 
 [Xiang Deng]: Xiang-Deng-DL.github.io
 [MRL Lab]: http://cs.binghamton.edu/~forweb/home.html
