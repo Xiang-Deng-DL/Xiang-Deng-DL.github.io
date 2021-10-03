@@ -8,9 +8,9 @@ This is [Xiang Deng][Xiang Deng], a third year PhD candidate at [MRL Lab][MRL La
 [Prof. Zhongfei Zhang]: http://www.cs.binghamton.edu/%7Ezhongfei/
 [Shandong University]: http://www.en.sdu.edu.cn/
 
-# News
+# News Since 09/2021
 
-To be added
+- [Sep 2021] One paper accepted by NeurIPS'2021 (the paper and code will be avaiable soon).
 
 # Selected Publications Since 2020
 
@@ -30,4 +30,4 @@ Please refer to [my Google Scholar profile][my Google Scholar profile].
 
 
 
-This website was last updated: **08/01/2021**
+This website was last updated: **10/03/2021**
