@@ -14,15 +14,18 @@ This is [Xiang Deng][Xiang Deng], a third year PhD candidate at [MRL Lab][MRL La
 
 # Selected Publications Since 2020
 
-  - **Xiang Deng**, Zhongfei Zhang. "Graph-Free Knowledge Distillation for Graph Neural Networks." 30th International Joint Conference on Artificial Intelligence (**IJCAI'2021**)
+  - **Xiang Deng**, Zhongfei Zhang. "[Graph-Free Knowledge Distillation for Graph Neural Networks]." 30th International Joint Conference on Artificial Intelligence (**IJCAI'2021**)
    
-  - **Xiang Deng**, Zhongfei Zhang. "Learning with Retrospection." 30th AAAI Conference on Artificial Intelligence (**AAAI'2021**)
+  - **Xiang Deng**, Zhongfei Zhang. "[Learning with Retrospection]." 30th AAAI Conference on Artificial Intelligence (**AAAI'2021**)
   
-  - **Xiang Deng**, Zhongfei Zhang. "Is the Meta-Learning Idea Able to Improve the Generalization of Deep Neural Networks on the Standard Supervised Learning?." 25th International Conference on Pattern Recognition (**ICPR'2020**)
+  - **Xiang Deng**, Zhongfei Zhang. "[Is the Meta-Learning Idea Able to Improve the Generalization of Deep Neural Networks on the Standard Supervised Learning?]." 25th International Conference on Pattern Recognition (**ICPR'2020**)
   
   - to be added
 
-[Code]: https://github.com/Xiang-Deng-DL/Learning-With-Retrospection  
+[Graph-Free Knowledge Distillation for Graph Neural Networks]: https://www.ijcai.org/proceedings/2021/0320.pdf
+[Learning with Retrospection]: https://arxiv.org/pdf/2012.13098.pdf
+[Is the Meta-Learning Idea Able to Improve the Generalization of Deep Neural Networks on the Standard Supervised Learning?]: https://arxiv.org/pdf/2002.12455.pdf
+[Code]: https://github.com/Xiang-Deng-DL/Learning-With-Retrospection
 # Google Scholar
 Please refer to [my Google Scholar profile][my Google Scholar profile].
 
