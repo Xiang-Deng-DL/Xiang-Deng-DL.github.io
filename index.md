@@ -10,9 +10,12 @@ This is [Xiang Deng][Xiang Deng], a PhD candidate at [MRL Lab][MRL Lab] at [Stat
 
 # News Since 09/2021
 
-- [Sep 2021] One paper accepted by NeurIPS'2021 (the paper and code will be avaiable soon).
+- [Sep 2021] One paper accepted by NeurIPS'2021.
 
 # Selected Publications Since 2020
+
+
+  - **Xiang Deng**, Zhongfei Zhang. "Comprehensive Knowledge Distillation with Causal Intervention." 30th Conference on Neural Information Processing Systems (**NeurIPS'2021**, the paper and code will be avaiable soon)
 
   - **Xiang Deng**, Zhongfei Zhang. "[Graph-Free Knowledge Distillation for Graph Neural Networks]." 30th International Joint Conference on Artificial Intelligence (**IJCAI'2021**)
    
