@@ -14,6 +14,7 @@ This is [Xiang Deng][Xiang Deng], a PhD candidate at [MRL Lab][MRL Lab] at [Stat
 
 # Selected Publications Since 2020
 
+  - **Xiang Deng**, Zhongfei Zhang. "**Sparsity-Control Ternary Weight Networks**." **Neural Networks, 2021** (to appear)
 
   - **Xiang Deng**, Zhongfei Zhang. "**Comprehensive Knowledge Distillation with Causal Intervention**." 30th Conference on Neural Information Processing Systems (**NeurIPS'2021**, the paper and code will be avaiable soon)
 
