@@ -14,7 +14,7 @@ This is [Xiang Deng][Xiang Deng], a PhD candidate at [MRL Lab][MRL Lab] at [Stat
 
 # Selected Publications Since 2020
 
-  - **Xiang Deng**, Zhongfei Zhang. "**Sparsity-Control Ternary Weight Networks**." **Neural Networks, 2021** (to appear)
+  - **Xiang Deng**, Zhongfei Zhang. "[Sparsity-Control Ternary Weight Networks]" **Neural Networks, 2021**
 
   - **Xiang Deng**, Zhongfei Zhang. "**Comprehensive Knowledge Distillation with Causal Intervention**." 30th Conference on Neural Information Processing Systems (**NeurIPS'2021**, the paper and code will be avaiable soon)
 
@@ -25,7 +25,8 @@ This is [Xiang Deng][Xiang Deng], a PhD candidate at [MRL Lab][MRL Lab] at [Stat
   - **Xiang Deng**, Zhongfei Zhang. "[Is the Meta-Learning Idea Able to Improve the Generalization of Deep Neural Networks on the Standard Supervised Learning?]." 25th International Conference on Pattern Recognition (**ICPR'2020**)
   
   - to be added
-
+  
+[Sparsity-Control Ternary Weight Networks]: https://arxiv.org/abs/2011.00580
 [Graph-Free Knowledge Distillation for Graph Neural Networks]: https://www.ijcai.org/proceedings/2021/0320.pdf
 [Learning with Retrospection]: https://arxiv.org/pdf/2012.13098.pdf
 [Is the Meta-Learning Idea Able to Improve the Generalization of Deep Neural Networks on the Standard Supervised Learning?]: https://arxiv.org/pdf/2002.12455.pdf
