@@ -26,7 +26,7 @@ This is [Xiang Deng][Xiang Deng], a PhD candidate at [MRL Lab][MRL Lab] at [Stat
   
   - to be added
 
-[Comprehensive Knowledge Distillation with Causal Intervention**]: https://openreview.net/pdf?id=ch9qlCdrHD7
+[Comprehensive Knowledge Distillation with Causal Intervention]: https://openreview.net/pdf?id=ch9qlCdrHD7
 [Sparsity-Control Ternary Weight Networks]: https://arxiv.org/abs/2011.00580
 [Graph-Free Knowledge Distillation for Graph Neural Networks]: https://www.ijcai.org/proceedings/2021/0320.pdf
 [Learning with Retrospection]: https://arxiv.org/pdf/2012.13098.pdf
