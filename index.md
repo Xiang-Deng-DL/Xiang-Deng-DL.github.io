@@ -14,18 +14,19 @@ This is [Xiang Deng][Xiang Deng], a PhD candidate at [MRL Lab][MRL Lab] at [Stat
 
 # Selected Publications Since 2020
 
-  - **Xiang Deng**, Zhongfei Zhang. "**Comprehensive Knowledge Distillation with Causal Intervention**." *Proc. of the 30th Conference on Neural Information Processing Systems* (**NeurIPS'2021**)
+  - **Xiang Deng**, Zhongfei Zhang. "[Comprehensive Knowledge Distillation with Causal Intervention**]", *Proc. of the 30th Conference on Neural Information Processing Systems* (**NeurIPS'2021**)
   
-  - **Xiang Deng**, Zhongfei Zhang. "[Sparsity-Control Ternary Weight Networks]" ***Neural Networks, 2021***
+  - **Xiang Deng**, Zhongfei Zhang. "[Sparsity-Control Ternary Weight Networks]", ***Neural Networks, 2021***
 
-  - **Xiang Deng**, Zhongfei Zhang. "[Graph-Free Knowledge Distillation for Graph Neural Networks]." *Proc. of the 30th International Joint Conference on Artificial Intelligence* (**IJCAI'2021**)
+  - **Xiang Deng**, Zhongfei Zhang. "[Graph-Free Knowledge Distillation for Graph Neural Networks]", *Proc. of the 30th International Joint Conference on Artificial Intelligence* (**IJCAI'2021**)
    
-  - **Xiang Deng**, Zhongfei Zhang. "[Learning with Retrospection]." *Proc. of the 30th AAAI Conference on Artificial Intelligence* (**AAAI'2021**)
+  - **Xiang Deng**, Zhongfei Zhang. "[Learning with Retrospection]", *Proc. of the 30th AAAI Conference on Artificial Intelligence* (**AAAI'2021**)
   
-  - **Xiang Deng**, Zhongfei Zhang. "[Is the Meta-Learning Idea Able to Improve the Generalization of Deep Neural Networks on the Standard Supervised Learning?]." *Proc. of the 25th International Conference on Pattern Recognition* (**ICPR'2020**)
+  - **Xiang Deng**, Zhongfei Zhang. "[Is the Meta-Learning Idea Able to Improve the Generalization of Deep Neural Networks on the Standard Supervised Learning?]", *Proc. of the 25th International Conference on Pattern Recognition* (**ICPR'2020**)
   
   - to be added
-  
+
+[Comprehensive Knowledge Distillation with Causal Intervention**]: https://openreview.net/pdf?id=ch9qlCdrHD7
 [Sparsity-Control Ternary Weight Networks]: https://arxiv.org/abs/2011.00580
 [Graph-Free Knowledge Distillation for Graph Neural Networks]: https://www.ijcai.org/proceedings/2021/0320.pdf
 [Learning with Retrospection]: https://arxiv.org/pdf/2012.13098.pdf
