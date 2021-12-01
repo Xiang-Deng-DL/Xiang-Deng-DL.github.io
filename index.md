@@ -9,9 +9,9 @@ This is [Xiang Deng][Xiang Deng], a PhD candidate at [MRL Lab][MRL Lab] at [Stat
 [Shandong University]: http://www.en.sdu.edu.cn/
 
 # News Since 09/2021
-- [Dec 2021] One paper accepted by **AAAI'2022** (will release soon).
-- [Oct 2021] One paper accepted by **Neural Networks**.
-- [Sep 2021] One paper accepted by **NeurIPS'2021**.
+- [Dec 2021] One paper accepted by ***AAAI'2022*** (will release soon).
+- [Oct 2021] One paper accepted by ***Neural Networks***.
+- [Sep 2021] One paper accepted by ***NeurIPS'2021***.
 
 # Selected Publications Since 2020
 
