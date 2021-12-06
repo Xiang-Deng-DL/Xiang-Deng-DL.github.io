@@ -21,7 +21,7 @@ This is [Xiang Deng][Xiang Deng], a PhD candidate at [MRL Lab][MRL Lab] at [Stat
 
   - **Xiang Deng**, Zhongfei Zhang. "[Graph-Free Knowledge Distillation for Graph Neural Networks]", *Proc. of the 30th International Joint Conference on Artificial Intelligence* (**IJCAI'2021**)
    
-  - **Xiang Deng**, Zhongfei Zhang. "[Learning with Retrospection]", *Proc. of the 30th AAAI Conference on Artificial Intelligence* (**AAAI'2021**)
+  - **Xiang Deng**, Zhongfei Zhang. "[Learning with Retrospection]", *Proc. of the 35th AAAI Conference on Artificial Intelligence* (**AAAI'2021**)
   
   - **Xiang Deng**, Zhongfei Zhang. "[Is the Meta-Learning Idea Able to Improve the Generalization of Deep Neural Networks on the Standard Supervised Learning?]", *Proc. of the 25th International Conference on Pattern Recognition* (**ICPR'2020**)
   
