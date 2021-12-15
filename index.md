@@ -16,6 +16,7 @@ This is [Xiang Deng][Xiang Deng], a PhD candidate at [MRL Lab][MRL Lab] at [Stat
 # Selected Publications Since 2020
 
   - **Xiang Deng**, et al. "Reducing Flipping Errors in Deep Nueral Networks", *Proc. of the 36th AAAI Conference on Artificial Intelligence* (**AAAI'2022**)
+  
   - **Xiang Deng**, Zhongfei Zhang. "[Comprehensive Knowledge Distillation with Causal Intervention]", *Proc. of the 30th Conference on Neural Information Processing Systems* (**NeurIPS'2021**)
   
   - **Xiang Deng**, Zhongfei Zhang. "[Sparsity-Control Ternary Weight Networks]", ***Neural Networks, 2021***
