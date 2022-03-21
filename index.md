@@ -1,6 +1,6 @@
 # Bio
 
-This is [Xiang Deng][Xiang Deng], a PhD candidate at [MRL Lab][MRL Lab] at [State University of New York at Binghamton][State University of New York at Binghamton]. I am working with [Prof. Zhongfei Zhang][Prof. Zhongfei Zhang]. I aim to design simple but very effective deep learning approaches. Simplicity yet effectiveness is the best. Prior to joining SUNY-Binghamton, I obtained the Bachelor's and Master's degrees from [Shandong University][Shandong University] in 2015 and 2018, respectively.
+This is [Xiang Deng][Xiang Deng], a PhD candidate at [MRL Lab][MRL Lab] at [State University of New York at Binghamton][State University of New York at Binghamton]. I am working with [Prof. Zhongfei Zhang][Prof. Zhongfei Zhang]. I aim to design simple but very effective deep learning approaches. Simplicity yet effectiveness is the best. My research experience is mainly on deep learning methods & computer vision, knowledge distillation & supervised learning, GANs & image processing (e.g., enhancement), and deep metric learning. Prior to joining SUNY-Binghamton, I obtained the Bachelor's and Master's degrees from [Shandong University][Shandong University] in 2015 and 2018, respectively.
 
 [Xiang Deng]: Xiang-Deng-DL.github.io
 [MRL Lab]: http://cs.binghamton.edu/~forweb/home.html
@@ -15,7 +15,7 @@ This is [Xiang Deng][Xiang Deng], a PhD candidate at [MRL Lab][MRL Lab] at [Stat
 
 # Selected Publications Since 2020
 
-  - **Xiang Deng**, et al. "Reducing Flipping Errors in Deep Neural Networks", *Proc. of the 36th AAAI Conference on Artificial Intelligence* (**AAAI'2022**)
+  - **Xiang Deng**, et al. "[Reducing Flipping Errors in Deep Neural Networks]", *Proc. of the 36th AAAI Conference on Artificial Intelligence* (**AAAI'2022**)
   
   - **Xiang Deng**, Zhongfei Zhang. "[Comprehensive Knowledge Distillation with Causal Intervention]", *Proc. of the 30th Conference on Neural Information Processing Systems* (**NeurIPS'2021**)
   
@@ -35,6 +35,8 @@ This is [Xiang Deng][Xiang Deng], a PhD candidate at [MRL Lab][MRL Lab] at [Stat
 [Learning with Retrospection]: https://arxiv.org/pdf/2012.13098.pdf
 [Is the Meta-Learning Idea Able to Improve the Generalization of Deep Neural Networks on the Standard Supervised Learning?]: https://arxiv.org/pdf/2002.12455.pdf
 [Code]: https://github.com/Xiang-Deng-DL/Learning-With-Retrospection
+[Reducing Flipping Errors in Deep Neural Networks]: https://arxiv.org/pdf/2203.08390.pdf
+
 # Google Scholar
 Please refer to [my Google Scholar profile][my Google Scholar profile].
 
