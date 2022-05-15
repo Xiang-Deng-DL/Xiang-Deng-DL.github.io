@@ -8,13 +8,18 @@ This is [Xiang Deng][Xiang Deng], a PhD candidate at [MRL Lab][MRL Lab] at [Stat
 [Prof. Zhongfei Zhang]: http://www.cs.binghamton.edu/%7Ezhongfei/
 [Shandong University]: http://www.en.sdu.edu.cn/
 
-# News Since 09/2021
+# News
+- [May 2022] One paper accepted by **ICML'2022** (will release soon).
 - [Dec 2021] One paper accepted by **AAAI'2022**.
 - [Oct 2021] One paper accepted by **Neural Networks**.
 - [Sep 2021] One paper accepted by **NeurIPS'2021**.
+- [Apr 2021] One paper accepted by **IJCAI'2021**.
+- [Dec 2020] One paper accepted by **AAAI'2021**.
 
 # Selected Publications Since 2020
 
+  - **Xiang Deng**, Zhongfei Zhang. "**Deep Causal Metric Learning**", *Proc. of the  39th International Conference on Machine Learning* (**ICML'2022**)
+  
   - **Xiang Deng**, et al. "[Reducing Flipping Errors in Deep Neural Networks]", *Proc. of the 36th AAAI Conference on Artificial Intelligence* (**AAAI'2022**)
   
   - **Xiang Deng**, Zhongfei Zhang. "[Comprehensive Knowledge Distillation with Causal Intervention]", *Proc. of the 30th Conference on Neural Information Processing Systems* (**NeurIPS'2021**)
