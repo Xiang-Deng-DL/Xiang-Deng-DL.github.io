@@ -9,7 +9,8 @@ This is [Xiang Deng][Xiang Deng], a PhD candidate at [MRL Lab][MRL Lab] at [Stat
 [Shandong University]: http://www.en.sdu.edu.cn/
 
 # News
-- [May 2022] One paper accepted by **ICML'2022** (will release soon).
+- [July 2022] One paper accepted by **ECCV'2022** (will release soon).
+- [May 2022] One paper accepted by **ICML'2022**
 - [Dec 2021] One paper accepted by **AAAI'2022**.
 - [Oct 2021] One paper accepted by **Neural Networks**.
 - [Sep 2021] One paper accepted by **NeurIPS'2021**.
@@ -17,6 +18,8 @@ This is [Xiang Deng][Xiang Deng], a PhD candidate at [MRL Lab][MRL Lab] at [Stat
 - [Dec 2020] One paper accepted by **AAAI'2021**.
 
 # Selected Publications Since 2020
+
+  - **Xiang Deng**, Zhongfei Zhang. "**Personalized Education: Blind Knowledge Distillation**", *2022 European Conference on Computer Vision* (**ECCV'2022**)
 
   - **Xiang Deng**, Zhongfei Zhang. "**Deep Causal Metric Learning**", *Proc. of the  39th International Conference on Machine Learning* (**ICML'2022**)
   
