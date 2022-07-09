@@ -9,7 +9,8 @@ This is [Xiang Deng][Xiang Deng], a PhD candidate at [MRL Lab][MRL Lab] at [Stat
 [Shandong University]: http://www.en.sdu.edu.cn/
 
 # News
-- [July 2022] One paper accepted by **ECCV'2022** (will release soon).
+- [July 2022] One paper accepted by **ECCV'2022**.
+- [May 2022] Join Meta as a research Intern
 - [May 2022] One paper accepted by **ICML'2022**
 - [Dec 2021] One paper accepted by **AAAI'2022**.
 - [Oct 2021] One paper accepted by **Neural Networks**.
@@ -44,6 +45,11 @@ This is [Xiang Deng][Xiang Deng], a PhD candidate at [MRL Lab][MRL Lab] at [Stat
 [Is the Meta-Learning Idea Able to Improve the Generalization of Deep Neural Networks on the Standard Supervised Learning?]: https://arxiv.org/pdf/2002.12455.pdf
 [Code]: https://github.com/Xiang-Deng-DL/Learning-With-Retrospection
 [Reducing Flipping Errors in Deep Neural Networks]: https://arxiv.org/pdf/2203.08390.pdf
+
+# Work Experience
+- [05/2022 - 08/2022]: Research Intern at Meta (Facebook)
+- [05/2021 - 08/2022]: Research Intern at JD.com (JingDong)
+- [08/2018 - 05/2022]: Teaching Assistant at Binghamton University
 
 # Google Scholar
 Please refer to [my Google Scholar profile][my Google Scholar profile].
