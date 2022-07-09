@@ -10,11 +10,13 @@ This is [Xiang Deng][Xiang Deng], a PhD candidate at [MRL Lab][MRL Lab] at [Stat
 
 # News
 - [July 2022] One paper accepted by **ECCV'2022**.
-- [May 2022] Join Meta as a research Intern
+- [May 2022] Join Meta as a research intern
 - [May 2022] One paper accepted by **ICML'2022**
+- [Jan 2022] Receive Graduate School Student Excellence Award at Binghamton University.
 - [Dec 2021] One paper accepted by **AAAI'2022**.
 - [Oct 2021] One paper accepted by **Neural Networks**.
 - [Sep 2021] One paper accepted by **NeurIPS'2021**.
+- [Sep 2021] Join JD.com as a reseasrch intern.
 - [Apr 2021] One paper accepted by **IJCAI'2021**.
 - [Dec 2020] One paper accepted by **AAAI'2021**.
 
