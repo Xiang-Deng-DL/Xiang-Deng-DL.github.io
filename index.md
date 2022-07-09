@@ -49,9 +49,9 @@ This is [Xiang Deng][Xiang Deng], a PhD candidate at [MRL Lab][MRL Lab] at [Stat
 [Reducing Flipping Errors in Deep Neural Networks]: https://arxiv.org/pdf/2203.08390.pdf
 
 # Work Experience
-- [05/2022 - 08/2022]: Research Intern at Meta (Facebook)
-- [05/2021 - 08/2022]: Research Intern at JD.com (JingDong)
-- [08/2018 - 05/2022]: Teaching Assistant at Binghamton University
+- [05/2022 - 08/2022] Research Intern at Meta (Facebook)
+- [05/2021 - 08/2022] Research Intern at JD.com (JingDong)
+- [08/2018 - 05/2022] Teaching Assistant at Binghamton University
 
 # Google Scholar
 Please refer to [my Google Scholar profile][my Google Scholar profile].
