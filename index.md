@@ -2,7 +2,7 @@
 
 This is [Xiang Deng][Xiang Deng], a PhD candidate at [MRL Lab][MRL Lab] at [State University of New York at Binghamton][State University of New York at Binghamton]. I am working with [Prof. Zhongfei Zhang][Prof. Zhongfei Zhang]. I aim to design simple but very effective deep learning approaches. Simplicity yet effectiveness is the best. My research experience is mainly on deep learning methods & computer vision, knowledge distillation & supervised learning, GANs & image processing (e.g., enhancement), and deep metric learning. Prior to joining SUNY-Binghamton, I obtained the Bachelor's and Master's degrees from [Shandong University][Shandong University] in 2015 and 2018, respectively.
 
-[Xiang Deng]: Xiang-Deng-DL.github.io
+[Xiang Deng]: https://drive.google.com/file/d/1HnRDH4Jl0ALRn8DZEUtfzB74_uJ6OczQ/view?usp=sharing
 [MRL Lab]: http://cs.binghamton.edu/~forweb/home.html
 [State University of New York at Binghamton]:https://www.binghamton.edu
 [Prof. Zhongfei Zhang]: http://www.cs.binghamton.edu/%7Ezhongfei/
