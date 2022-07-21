@@ -58,6 +58,9 @@ Please refer to [my Google Scholar profile][my Google Scholar profile].
 
 [my Google Scholar profile]: https://scholar.google.com/citations?hl=en&user=5aNR1gsAAAAJ
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=Xiang-Deng-DL/Xiang-Deng-dl) 
+
 
 This website was last updated: **07/08/2022 EST**
+
+Starting from Jul 20, 2022:<br> 
+![visitors](https://visitor-badge.glitch.me/badge?page_id=Xiang-Deng-DL/Xiang-Deng-dl)
