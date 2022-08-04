@@ -24,7 +24,7 @@ This is [Xiang Deng][Xiang Deng], a PhD candidate at [MRL Lab][MRL Lab] at [Stat
 
   - **Xiang Deng**, Zhongfei Zhang. "**Personalized Education: Blind Knowledge Distillation**", *2022 European Conference on Computer Vision* (**ECCV'2022**)
 
-  - **Xiang Deng**, Zhongfei Zhang. "**Deep Causal Metric Learning**", *Proc. of the  39th International Conference on Machine Learning* (**ICML'2022**)
+  - **Xiang Deng**, Zhongfei Zhang. "[Deep Causal Metric Learning]", *Proc. of the  39th International Conference on Machine Learning* (**ICML'2022**)
   
   - **Xiang Deng**, et al. "[Reducing Flipping Errors in Deep Neural Networks]", *Proc. of the 36th AAAI Conference on Artificial Intelligence* (**AAAI'2022**)
   
@@ -47,6 +47,7 @@ This is [Xiang Deng][Xiang Deng], a PhD candidate at [MRL Lab][MRL Lab] at [Stat
 [Is the Meta-Learning Idea Able to Improve the Generalization of Deep Neural Networks on the Standard Supervised Learning?]: https://arxiv.org/pdf/2002.12455.pdf
 [Code]: https://github.com/Xiang-Deng-DL/Learning-With-Retrospection
 [Reducing Flipping Errors in Deep Neural Networks]: https://arxiv.org/pdf/2203.08390.pdf
+[Deep Causal Metric Learning]: https://proceedings.mlr.press/v162/deng22c/deng22c.pdf
 
 # Work Experience
 - [05/2022 - 08/2022] Research Intern at Meta (Facebook)
