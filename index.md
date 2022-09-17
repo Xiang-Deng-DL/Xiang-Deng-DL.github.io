@@ -54,7 +54,8 @@ This is [Xiang Deng][Xiang Deng], a PhD candidate at [MRL Lab][MRL Lab] at [Stat
 - [05/2021 - 08/2022] Research Intern at JD.com (JingDong)
 - [08/2018 - 05/2022] Teaching Assistant at Binghamton University
 
-# Conference Program Committee
+# Professional Service 
+**Conference Program Committee**
 - International Conference on Machine Learning (ICML)
 - Conference on Neural Information Processing Systems (NeurIPS)
 - European Conference on Computer Vision (ECCV)
@@ -64,7 +65,7 @@ This is [Xiang Deng][Xiang Deng], a PhD candidate at [MRL Lab][MRL Lab] at [Stat
 - IEEE International Conference on Data Science and Advanced Analytics (DASS)
 - IEEE International Conference on Data Mining (ICDM)
 
-# Journal Reviewer
+**Journal Reviewer**
 - IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)
 - IEEE Transactions on Multimedia (TMM)
 - Journal of Computer Science and Technology (JCST)
