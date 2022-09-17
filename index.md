@@ -54,7 +54,7 @@ This is [Xiang Deng][Xiang Deng], a PhD candidate at [MRL Lab][MRL Lab] at [Stat
 - [05/2021 - 08/2022] Research Intern at JD.com (JingDong)
 - [08/2018 - 05/2022] Teaching Assistant at Binghamton University
 
-# Professional Service 
+# Professional Service Member
 **Conference Program Committee**
 - International Conference on Machine Learning (ICML)
 - Conference on Neural Information Processing Systems (NeurIPS)
@@ -78,7 +78,7 @@ Please refer to [my Google Scholar profile][my Google Scholar profile].
 
 
 
-This website was last updated: **07/08/2022 EST**
+This website was last updated: **09/17/2022 EST**
 
 Starting from Jul 20, 2022:<br> 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=Xiang-Deng-DL/Xiang-Deng-dl)
