@@ -58,6 +58,7 @@ This is [Xiang Deng][Xiang Deng], a PhD candidate at [MRL Lab][MRL Lab] at [Stat
 **Conference Program Committee**
 - International Conference on Machine Learning (ICML)
 - Conference on Neural Information Processing Systems (NeurIPS)
+- IEEE / CVF Computer Vision and Pattern Recognition Conference (CVPR)
 - European Conference on Computer Vision (ECCV)
 - AAAI Conference (AAAI)
 - International Joint Conference on Artificial Intelligence (IJCAI)
