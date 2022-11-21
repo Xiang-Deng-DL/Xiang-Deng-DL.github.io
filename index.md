@@ -72,12 +72,6 @@ This is [Xiang Deng][Xiang Deng], a PhD candidate at [MRL Lab][MRL Lab] at [Stat
 - Journal of Computer Science and Technology (JCST)
 - Journal of Electronic Imaging (JEI)
 
-# Google Scholar
-Please refer to [my Google Scholar profile][my Google Scholar profile].
-
-[my Google Scholar profile]: https://scholar.google.com/citations?hl=en&user=5aNR1gsAAAAJ
-
-
 
 This website was last updated: **09/17/2022 EST**
 
