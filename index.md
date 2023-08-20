@@ -1,6 +1,11 @@
 # Bio
 
-This is [Xiang Deng][Xiang Deng], a PhD candidate at [MRL Lab][MRL Lab] at [State University of New York at Binghamton][State University of New York at Binghamton]. I am working with [Prof. Zhongfei Zhang][Prof. Zhongfei Zhang]. I aim to design simple but very effective deep learning approaches. Simplicity yet effectiveness is the best. My research experience is mainly on deep learning methods & machine learning, efficient & effective learning, knowledge distillation & supervised learning, GANs & image processing (e.g., enhancement), and deep metric learning. Prior to joining SUNY-Binghamton, I obtained the Bachelor's and Master's degrees from [Shandong University][Shandong University] in 2015 and 2018, respectively.
+This is [Xiang Deng][Xiang Deng]. I obtained my PhD degree from [State University of New York at Binghamton][State University of New York at Binghamton] with advisor [Prof. Zhongfei Zhang][Prof. Zhongfei Zhang] in Dec 2022. I aim to design simple but very effective deep learning approaches. Simplicity yet effectiveness is the best. My research interests are mainly on multi-models and embodied AI, efficient & effective learning, knowledge distillation & supervised learning, GANs & image processing (e.g., enhancement), and deep metric learning. Prior to joining SUNY-Binghamton, I obtained the Bachelor's and Master's degrees from [Shandong University][Shandong University] in 2015 and 2018, respectively.
+
+```diff
+- If you are interested in working with me on reasearch or projects, you can email me at xdeng2023 at gmail.com.
+- Undergraduates/masters/PhD/PostDoc/engineerers et al., are all welcome.
+```
 
 [Xiang Deng]: https://xiang-deng-dl.github.io/
 [MRL Lab]: http://cs.binghamton.edu/~forweb/home.html
@@ -51,6 +56,7 @@ This is [Xiang Deng][Xiang Deng], a PhD candidate at [MRL Lab][MRL Lab] at [Stat
 [Personalized Education: Blind Knowledge Distillation]: https://link.springer.com/chapter/10.1007/978-3-031-19830-4_16
 
 # Work Experience
+- [03/2023 - present] Full time at HIT-SZ
 - [05/2022 - 08/2022] Research Intern at Meta (Facebook)
 - [05/2021 - 08/2022] Research Intern at JD.com (JingDong)
 - [08/2018 - 05/2022] Teaching Assistant at Binghamton University
@@ -74,7 +80,7 @@ This is [Xiang Deng][Xiang Deng], a PhD candidate at [MRL Lab][MRL Lab] at [Stat
 - Journal of Electronic Imaging (JEI)
 
 
-This website was last updated: **09/17/2022 EST**
+This website was last updated: **2023 EST**
 
 Starting from Jul 20, 2022:<br> 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=Xiang-Deng-DL/Xiang-Deng-dl)
