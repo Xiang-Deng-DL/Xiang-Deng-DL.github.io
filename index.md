@@ -2,8 +2,7 @@
 
 This is [Xiang Deng][Xiang Deng]. I obtained my PhD degree from [State University of New York at Binghamton][State University of New York at Binghamton] with advisor [Prof. Zhongfei Zhang][Prof. Zhongfei Zhang] in Dec 2022. I aim to design simple but very effective deep learning approaches. Simplicity yet effectiveness is the best. My research interests are mainly on multi-models and embodied AI, efficient & effective learning, knowledge distillation & supervised learning, GANs & image processing (e.g., enhancement), and deep metric learning. Prior to joining SUNY-Binghamton, I obtained the Bachelor's and Master's degrees from [Shandong University][Shandong University] in 2015 and 2018, respectively.
 
-**If you are interested in working with me on reasearch or projects, you can email me at xdeng2023 at gmail.com.
-Undergraduates/masters/PhD/PostDoc/engineerers et al., are all welcome.**
+**If you are interested in working with me on reasearch or projects, you can email me at xdeng2023 at gmail.com.Undergraduates/masters/PhD/PostDoc/engineerers et al., are all welcome.**
 
 
 [Xiang Deng]: https://xiang-deng-dl.github.io/
