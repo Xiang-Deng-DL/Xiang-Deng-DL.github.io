@@ -51,7 +51,7 @@ This is [Xiang Deng][Xiang Deng]. I obtained my PhD degree from [State Universit
 [Personalized Education: Blind Knowledge Distillation]: https://link.springer.com/chapter/10.1007/978-3-031-19830-4_16
 
 # Work Experience
-- [03/2023 - present] Full-time PDC at HIT-SZ with advisor Prof. Liqiang Nie
+- [03/2023 - present] HIT-SZ
 - [05/2022 - 08/2022] Research Intern at Meta (Facebook)
 - [05/2021 - 08/2022] Research Intern at JD.com (JingDong)
 - [08/2018 - 05/2022] Teaching Assistant at Binghamton University
